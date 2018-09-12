@@ -1,2 +1,2 @@
 # Digit-Recognition-using-CNN
-Kaggle Digit Recognition Competition
+https://www.kaggle.com/c/digit-recognizer
